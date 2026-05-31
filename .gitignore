@@ -1,0 +1,18 @@
+# 编译中间文件
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# GCC 生成的可执行文件（无扩展名或常见名字）
+a.out
+*.exe
+*.out
+*.app
+/build/
+
+# 如果你有自定义的可执行文件名（例如 my_program）
+/my_program
+/build/
