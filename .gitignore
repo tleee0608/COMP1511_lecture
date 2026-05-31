@@ -11,8 +11,5 @@ a.out
 *.exe
 *.out
 *.app
-/build/
+/week_1/code/build/
 
-# 如果你有自定义的可执行文件名（例如 my_program）
-/my_program
-/build/
